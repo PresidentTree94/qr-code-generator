@@ -10,10 +10,10 @@ This is the React extension of the [QR Code Component](https://www.frontendmento
 - **Local Persistence:** All saved QR codes are stored in your browser.
 
 ### Default Settings
-- **Value:** https://www.frontendmentor.io/
-- **Colors:** White (#ffffff) foreground on blue (#2c7dfa) background.
+- **Value:** `https://www.frontendmentor.io/`
+- **Colors:** White (`#ffffff`) foreground on blue (`#2c7dfa`) background.
 - **Size:** 55% of the container's width.
-- **Filename Format:** qrcode-YYYYMMDDHHMMSS (ISO timestamp)
+- **Filename Format:** `qrcode-YYYYMMDDHHMMSS` (ISO timestamp)
 - **Storage:** Browser local storage for persistence
 
 ![Screenshot of desktop version](screenshot.png)
