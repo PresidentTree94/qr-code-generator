@@ -16,7 +16,7 @@ This is the React extension of the [QR Code Component](https://www.frontendmento
 - **Filename Format:** `qrcode-YYYYMMDDHHMMSS` (ISO timestamp)
 - **Storage:** Browser local storage for persistence
 
-![Screenshot of desktop version](screenshot.png)
+![Screenshot of desktop version](public/screenshot.png)
 
 ## Author
 - GitHub Profile: [PresidentTree94](https://github.com/PresidentTree94)
