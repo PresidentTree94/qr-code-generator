@@ -1,5 +1,5 @@
 # QR Code Component Extension - QR Code Generator
-This is the React extension of the [QR Code Component](https://www.frontendmentor.io/solutions/qr-code-component-xixkp7hzyW) challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This project transforms the original static design into a fully interactive QR code generator with customization and management features.
+This is a React extension of the [QR Code Component](https://www.frontendmentor.io/solutions/qr-code-component-xixkp7hzyW) challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This project transforms the original static design into a fully interactive QR code generator with customization and management features.
 
 ## Features
 - **Dynamic QR Generation:** The QR code automatically updates as you type, providing instant feedback.
