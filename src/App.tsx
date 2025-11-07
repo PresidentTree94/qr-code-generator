@@ -123,11 +123,11 @@ function App() {
         <button className="bg-text-fg" onClick={handleDelete} disabled={savedQrCodes.length === 0}>Delete</button>
       </section>
       {savedQrCodes.length === 0 ? (
-        <section id="load" className="bg-disable-bg rounded-lg flex justify-center items-center h-60">
+        <section className="bg-disable-bg rounded-lg flex justify-center items-center h-60">
           <p>No QR codes saved.</p>
         </section>
       ) : (
-        <section id="load" className="bg-disable-bg rounded-lg p-2">
+        <section className="bg-disable-bg rounded-lg p-2">
           <div className="flex flex-col gap-2 max-tl:min-h-56 tl:h-56 tl:overflow-auto">
             {savedQrCodes.map((item, index) => (
               <button className="bg-component-bg p-1 text-left text-header-fg" key={index} onClick={() => {
